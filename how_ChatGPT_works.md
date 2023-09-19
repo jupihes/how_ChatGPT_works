@@ -1,6 +1,8 @@
-% On Chatbots like Chatgpt works? and how to instruct them - Prompt engineering?
-% [Hesam Mohammad Hosseini](https://www.linkedin.com/in/hesam-mohammad-hosseini/)
-% Sep 18, 2023
+## On Chatbots like Chatgpt works? and how to instruct them - Prompt engineering?
+
+
+[Hesam Mohammad Hosseini](https://www.linkedin.com/in/hesam-mohammad-hosseini/)
+Sep 18, 2023
 
 
 
