@@ -306,15 +306,21 @@ x = array([[1.26086957, 0.82608696, 0.91304348]])
    - 1 gram - خرد
 
        - [خیام 1](https://ganjoor.net/search?s=%D8%AE%D8%B1%D8%AF&es=1&author=3&cat=31)
-
+	   
+        ![](./images/Khayam_kherad.png)
+		
    - 2 gram - حال - زبان حال
    
        - [خیام 2](https://ganjoor.net/search?s=%D8%AD%D8%A7%D9%84&es=1&author=3&cat=31)
+	   
+	   ![](./images/Khayam_Hal.png)
 	   
 - [حافظ](https://ganjoor.net/khayyam/robaee)
 
    - [ 1 حافظ](https://ganjoor.net/hafez)
    - [ 2 حافظ](https://ganjoor.net/search?s=%D8%B9%D8%B4%D9%82&es=1&author=2&cat=24)
+   
+   ![](./images/Hafez_eshgh.png)
 
 ![](./images/khayam.png)
 
