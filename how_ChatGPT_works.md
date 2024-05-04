@@ -134,6 +134,10 @@ Sep 18, 2023
 </figure>
 
 
+### [Right-Sizing Models for the Dataset](https://www.deeplearning.ai/the-batch/finding-the-best-data-to-parameter-ratio-for-nlp-models/)
+
+![](https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2022%2F11%2Funnamed--10--1.gif&w=1920&q=75)
+
 ### Video
 
 <!-- blank line -->
