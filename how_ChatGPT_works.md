@@ -181,6 +181,13 @@ Sep 18, 2023
 
 <!-- pandoc -t slidy -s 'on_chatgpt.txt' -o notes.html -->
 
+### Generative AI whitin AI
+
+- Generative AI as subdomain AI
+   - ![](./images/AI_horizen.jpg)
+     
+   - ![](./images/AI_world.jpg)
+
 ### backgrounds - 1
 
 - Text gathering and cleaning
