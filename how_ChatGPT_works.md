@@ -151,6 +151,10 @@ May 7, 2024
 </figure>
 <!-- blank line -->
 
+<iframe width="468" height="263" src="https://www.youtube.com/embed/X-AWdfSFCHQ" title="How Chatbots and Large Language Models Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+	
+</iframe>
+	
 [Link to find video](https://code.org/educate/resources/videos)
 <!-- 
 <figure class="video_container">
@@ -1029,6 +1033,10 @@ print(response)
 |TheB.AI|https://beta.theb.ai|
 |Poe|https://poe.com/|
 
+
+###  AI overtaking Human?
+
+- ![](./imagaes/AI-vs-Humans-Performance-share.webp)
 
 ### Remained part? 
 
