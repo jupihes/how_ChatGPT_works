@@ -1049,7 +1049,14 @@ print(response)
 ### Can AI think?
 
 - How artificial intelligence can revolutionise science?
-![](./images/AI_science.webp)
+   -
+    <img src="./images/AI_science.webp" />
+
+<picture>
+  <source srcset="./images/AI_science.webp" type="image/webp">
+  <!-- <source srcset="img.jpg" type="image/jpeg"> -->
+  <img src="img.jpg">
+</picture>
 
 ### Get in touch
 
