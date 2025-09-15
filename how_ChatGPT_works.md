@@ -1058,6 +1058,14 @@ print(response)
   <img src="img.jpg">
 </picture>
 
+
+
+### Technology over the long run: zoom out to see how dramatically the world can change within a lifetime
+- [source](https://ourworldindata.org/technology-long-run)
+
+    <img src="https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7c1b6c37-775b-4326-3bed-48a44e647f00/w=2456" />
+
+
 ### Get in touch
 
 [Hesam Mohammad Hosseini](https://www.linkedin.com/in/hesam-mohammad-hosseini/)
@@ -1138,3 +1146,4 @@ Provide them in JSON format with the following keys:
 book_id, title, author, genre.
 """
 ``` -->
+
